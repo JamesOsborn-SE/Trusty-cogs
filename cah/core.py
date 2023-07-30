@@ -20,7 +20,7 @@ FONT_URL = (
     "https://github.com/adampash/Lifehacker.me/blob/master/fonts/HelveticaNeue-Bold.ttf?raw=true"
 )
 CARD_SETS_URL = (
-    "https://raw.githubusercontent.com/crhallberg/json-against-humanity/latest/cah-all-full.json"
+    "https://raw.githubusercontent.com/JamesOsborn-SE/json-against-humanity/latest/hp-cah-full.json"
 )
 
 
